@@ -1,7 +1,7 @@
 import React from "react";
 import "../../styles/index.scss";
-import Bord from "./bord.js";
-import Heading from "./heading.js";
+import Bord from "./bord.jsx";
+import Heading from "./heading.jsx";
 
 export function App() {
 	return (

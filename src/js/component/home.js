@@ -1,5 +1,5 @@
 import React from "react";
-import { App } from "./app";
+import { App } from "./app.jsx";
 
 //include images into your bundle
 import rigoImage from "../../img/rigo-baby.jpg";
